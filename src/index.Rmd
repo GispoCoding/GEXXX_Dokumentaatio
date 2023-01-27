@@ -1,0 +1,47 @@
+---
+title: "Introduction to QGIS"
+author: "Gispo Ltd."
+date: "`r Sys.Date()`"
+site: "bookdown::bookdown_site"
+abstract: "A course covering advanced GeoServer topics."
+output:
+    bookdown::html_book:
+        toc: true
+        theme: null
+        template: custom.html
+        css: custom.css
+        split_by: rmd
+documentclass: book
+---
+
+# Introduction to QGIS
+
+Welcome to the Introduction to QGIS course by [Gispo Ltd.](https://gispo.fi)!
+
+These course materials are designed to be used during the two-day Introduction to QGIS course.
+
+Todo: add some more materials here
+
+## About
+
+When working through the material, try to follow along the exercises as well as you can.
+Even if you cannot complete an exercise, you learn much more by at least trying.
+
+The materials contain notes and hints that help with completing the exercises.
+These are placed in special boxes.
+Hints look like this:
+
+:::{.hint-box}
+**Hint:** these boxes contain useful tips for completing exercises.
+:::
+
+While notes look like this:
+
+:::{.note-box}
+**Note:** these boxes contain various things that should to keep in mind and consider.
+:::
+
+## License and permissions
+
+These materials are developed for the Introduction to QGIS course by Gispo Ltd.
+The materials are licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/) license.

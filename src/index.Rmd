@@ -41,6 +41,18 @@ While notes look like this:
 **Note:** these boxes contain various things that should to keep in mind and consider.
 :::
 
+::: hint-box
+TÄMÄ TEKSTI TULEE BOXIN SISÄLLE, TÄMÄ ON VIHJEBOKSI
+:::
+
+TAI esim.
+
+::: code-box
+print(‘Tämä on koodiboksi’)
+:::
+
+
+
 ## License and permissions
 
 These materials are developed for the Introduction to QGIS course by Gispo Ltd.

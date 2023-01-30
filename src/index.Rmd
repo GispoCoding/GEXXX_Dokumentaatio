@@ -22,7 +22,7 @@ These course materials are designed to be used during the two-day Introduction t
 
 Todo: add some more materials here
 
-## About
+# About
 
 When working through the material, try to follow along the exercises as well as you can.
 Even if you cannot complete an exercise, you learn much more by at least trying.

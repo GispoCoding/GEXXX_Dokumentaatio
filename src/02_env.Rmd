@@ -1,4 +1,4 @@
-# Training environment
+# Työympäristö
 
 QGIS is a free open-source desktop GIS that can be easily installed on Linux, Windows, and Mac.
 You can use QGIS as a WMS/WFS client to see how the different services provided by GS work.

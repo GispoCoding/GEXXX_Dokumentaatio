@@ -1,6 +1,7 @@
 /* Import fonts */
 @import url("https://fonts.googleapis.com/css2?family=Karla:wght@300;400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Courier:wght@300;400;700&display=swap");
 
 /* Generics */
 body { overflow-x: hidden; }
@@ -146,6 +147,7 @@ h5 { font-size: 100% !important; }
     color: inherit;
     padding-right: 0.4em;
     margin-bottom: 0.2em !important;
+    display: none;
 }
 
 /* Main content */
@@ -160,6 +162,10 @@ h5 { font-size: 100% !important; }
     justify-content: space-between;
     flex-direction: column;
     align-items: stretch;
+}
+
+.header-section-number {
+    display: none;
 }
 
 .main-content-wrapper { padding-bottom: 15%; }
@@ -199,6 +205,15 @@ h5 { font-size: 100% !important; }
     margin-top: 2em;
 }
 
+/* Tables */
+table {
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid #434662;
+    padding: 0.4em
+  }
+
 /* Buttons */
 
 .btn {
@@ -207,8 +222,10 @@ h5 { font-size: 100% !important; }
     color: #fbfbfb !important;
     background-color: #7a3884 !important;
     border: none !important;
+    margin: 0.8em 0.8em !important;
     padding: 0.4em 0.8em !important;
     border-radius: 0 !important;
+    display:block
 }
 
 .btn:hover {
@@ -298,6 +315,43 @@ h5 { font-size: 100% !important; }
 
 .note-box p {
     color: #444444;
+    margin: 0 !important;
+}
+
+.code-box {
+    background: #B6D7A8;
+    padding: 10px;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+.code-box p {
+    color: #444444;
+    font-family: 'Courier', sans-serif !important;
+    margin: 0 !important;
+}
+
+.file-content-box {
+    background: #eeeeee;
+    padding: 10px;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+.file-content-box p {
+    color: #444444;
+    margin: 0 !important;
+}
+
+.commandline-box {
+    background: #ab8b9b;
+    padding: 10px;
+    border: none;
+    margin-bottom: 1rem;
+}
+
+.commandline-box p {
+    color: #fbfbfb;
     margin: 0 !important;
 }
 

@@ -1,4 +1,4 @@
-# Harjoitus 1: Koulutusympäristön valmistaminen
+# Harjoitus 1: Koulutusympäristön valmistaminen 
 
 **Harjoituksen sisältö**
 

@@ -6,6 +6,20 @@
 /* Generics */
 body { overflow-x: hidden; }
 
+.slidesframe {
+    width: 70vw;
+    height: 41.65vw;
+    border: none;
+}
+
+.gameframe {
+    width: 100%;
+    height: 30em;
+    border: solid 0.2rem;
+    border-radius: 5px;
+    color: #434662;
+}
+
 p, span, li {
     color: #434662;
     font-family: 'Karla', sans-serif;

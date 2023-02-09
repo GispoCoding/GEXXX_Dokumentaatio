@@ -1,0 +1,44 @@
+[
+    {
+      "question": "Mikä on rasteri?",
+      "choice1": "Arvomatriisi",
+      "choice2": "Vektori joka on .png muodossa",
+      "choice3": "Kuvan tiedostoformaatti",
+      "answer": 1
+    },
+    {
+      "question": "Mikä on vektori?",
+      "choice1": "Viivamuotoinen aineisto",
+      "choice2": "Kuvan tiedostoformaatti",
+      "choice3": "Geometriasta ja ominaisuustiedosta muodostuva kokonaisuus",
+      "answer": 3
+    },
+    {
+      "question": "Mikä on vektori?",
+      "choice1": "Viivamuotoinen aineisto",
+      "choice2": "Kuvan tiedostoformaatti",
+      "choice3": "Geometriasta ja ominaisuustiedosta muodostuva kokonaisuus",
+      "answer": 1
+    },
+    {
+      "question": "Mikä on vektori?",
+      "choice1": "Viivamuotoinen aineisto",
+      "choice2": "Kuvan tiedostoformaatti",
+      "choice3": "Geometriasta ja ominaisuustiedosta muodostuva kokonaisuus",
+      "answer": 2
+    },
+    {
+      "question": "Mikä on vektori?",
+      "choice1": "Viivamuotoinen aineisto",
+      "choice2": "Kuvan tiedostoformaatti",
+      "choice3": "Geometriasta ja ominaisuustiedosta muodostuva kokonaisuus",
+      "answer": 2
+    },
+    {
+      "question": "Mikä on vektori?",
+      "choice1": "Viivamuotoinen aineisto",
+      "choice2": "Kuvan tiedostoformaatti",
+      "choice3": "Geometriasta ja ominaisuustiedosta muodostuva kokonaisuus",
+      "answer": 1
+    }
+  ]

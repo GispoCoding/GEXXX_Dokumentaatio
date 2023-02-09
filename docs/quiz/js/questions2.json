@@ -1,0 +1,37 @@
+[
+    {
+      "question": "Mikä seuraavista on vektoreiden tiedostoformaatti?",
+      "choice1": "PNG",
+      "choice2": "JPEG2000",
+      "choice3": "Shapefile",
+      "answer": 3
+    },
+    {
+      "question": "Mikä seuraavista on rastereiden tiedostoformaatti?",
+      "choice1": "DWG",
+      "choice2": "GeoTIFF",
+      "choice3": "KML",
+      "answer": 2
+    },
+    {
+      "question": "Mikä seuraavista on vektoriaineistojen hyöty?",
+      "choice1": "Hyvä kuvaamaan esim. lämpötilaa",
+      "choice2": "Tietoa on nopeaa kerätä",
+      "choice3": "Pieni levytila",
+      "answer": 3
+    },
+    {
+      "question": "Mikä seuraavista EI ole yleensä rasteriaineisto?",
+      "choice1": "Ilmakuvat",
+      "choice2": "Tieviiva- aineisto",
+      "choice3": "Skannatut kartat",
+      "answer": 2
+    },
+    {
+      "question": "Mikä seuraavista on rasteriaineistojen haaste?",
+      "choice1": "Ei skaalaudu",
+      "choice2": "Hidas analysointi",
+      "choice3": "Ei sovellu jatkuvan aineiston kuvaamiseen",
+      "answer": 1
+    }
+  ]

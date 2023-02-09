@@ -1,0 +1,15 @@
+kurssikehitys
+lukuohje
+mistä-lisätietoja
+virheet
+lisenssi-ja-oikeudet
+kappale-1
+luento-1-paikkatiedon-teoriaa-ja-qgis-ohjelmisto
+harjoitus-1-koulutusympäristön-valmistaminen
+qgisin-lataus-ja-asennus
+testaa-tietosi---kappale-1
+kappale-1-1
+luento-2-paikkatietoaineistot-ja-qgisin-käyttöliittymä
+harjoitus-2-paikkatietoaineistot-ja-qgisin-käyttöliittymä
+paikkatietoaineiston-tiedostot
+testaa-tietosi---kappale-2

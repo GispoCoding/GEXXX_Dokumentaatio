@@ -15,3 +15,4 @@ harjoitus-2-paikkatietoaineistot-ja-qgisin-käyttöliittymä
 paikkatietoaineiston-tiedostot
 testaa-tietosi---kappale-2
 harjoitus-3
+pieniä-muokkauksia

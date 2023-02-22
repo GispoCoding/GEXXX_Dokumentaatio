@@ -31,3 +31,6 @@ Löydät QGISin verkkosivujen etusivulta linkin, jonka avulla pääset lataamaan
 ## Testaa tietosi - kappale 1
 
 INSERT IFRAME HERE
+
+## Puutteet tiedoissa?
+
